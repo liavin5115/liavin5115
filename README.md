@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**liavin5115/liavin5115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a dedicated student at SMK Karya Bangsa, currently focused on enhancing my skills in various areas of programming. I am particularly interested in the development of simple AI systems. My passion extends beyond coding into the realms of anime, manga, and gaming.
 
-Here are some ideas to get you started:
+## Current Endeavors
+- 🔭 **Learning and Building**: Actively developing my expertise in AI and exploring new technologies.
+- 🌱 **Open to Collaboration**: I’m looking forward to collaborating with anyone interested in programming, AI, or game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- 💬 **Ask Me About**: Programming, anime, manga, and gaming.
+- 📫 **Reach Me Via**: [liavin5115@gmail.com](mailto:liavin5115@gmail.com)
+- 😄 **Preferred Names**: You can call me *Rafa* or *Liavin*.
+
+## Fun Fact
+- ⚡ Just like many programmers, I’m also a fan of Japanese culture and love spending time immersed in anime and games.
